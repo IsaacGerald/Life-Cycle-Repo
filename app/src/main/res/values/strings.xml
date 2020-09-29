@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity Life Cycle</string>
+    <string name="button_main">Send</string>
+    <string name="activity_2name">Second Activity</string>
+    <string name="message_received">Message Receiceived</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="delete_any_text_in_this_field">(Delete any text in this field)</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
